@@ -23,4 +23,6 @@ const images = [
 
 for(let i=0; i < images.length; i++){
   const image = images|i|
+
 }
+//FINIRE
